@@ -1,0 +1,36 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
+
+.elem {
+    height: 300px;
+    width: 300px;
+    background-color: #ffeb3b;
+    
+    /* border-style: solid;
+    border-color: green;
+    border-width: 10px; */
+    /* border: 10px solid green; */
+
+    /* border-top: 10px solid green;
+    border-right: 5px dashed rgb(2, 0, 128);
+    border-bottom: 20px dotted rgb(172, 11, 145);
+    border-left: 15px solid; */
+
+    /* border-radius: 50px 50%; */
+    
+    /* border-top-left-radius: 50px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 0px; */
+    
+    /* border-radius: 50px 70px 0 50%; */
+
+    /* border-radius: 50px / 100px; */
+    border-radius: 50% 70% 53% 47% / 26% 46% 54% 74%
+
+}
